@@ -1,4 +1,4 @@
-# DesafioAct
+# Desafio Act
 
 Aplicação feita em Spring Boot 2.5.6 para realizar o cadastro de pessoas e em seguida as relacionando com seu endereço.
 O projeto deverá estar com um ambiente de testes configurado acessando o banco de dados MySQL, deverá usar Maven como gerenciador de dependência, e Java 11 como linguagem.
