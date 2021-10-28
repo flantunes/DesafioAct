@@ -11,6 +11,6 @@ Cadastro de pessoas sem endereço através do POST;
 Consulta de pessoas através do GET;
 Consulta de CEP através do GET;
 
-# No Postiman
+# No Postman
 
 Clonando o repositório será possível importar o projeto no Spring Boot e realizar os testes no Postman.
